@@ -18,7 +18,7 @@ In this homework assignment, you will practice working with a simple C++ class.
   * getter named `read_length`: returns the current value of the `length` member variable.
   * getter named `read_name`: returns the current value of the `name` member variable.
   * member function `volume`: calculates and returns the volume of the tank car using the formula $\pi \times radius^2 \times length$. This member function does not take any parameters. Use the math constant `M_PI`, which is defined in the `cmath` standard library, for $\pi$.
-2. Complete the `main` function in main.cpp. See the comments marked with TODO for detailed instructions on specific sub-tasks.
+2. Complete the `main` function in main.cpp. See the comments marked with TODO for detailed instructions on specific sub-tasks. You may need to call the implemented member functions.
 
 # Compile and Test
 
